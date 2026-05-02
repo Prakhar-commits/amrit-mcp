@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "amrit-mcp": {
+      "command": "node",
+      "args": ["C:\\Users\\prakh\\OneDrive\\Desktop\\amrit-mcp\\dist\\index.js"],
+      "env": {
+        "AMRIT_DOCS_DIR": "C:\\Users\\prakh\\OneDrive\\Desktop\\amrit-mcp\\docs"
+      }
+    }
+  }
+}
